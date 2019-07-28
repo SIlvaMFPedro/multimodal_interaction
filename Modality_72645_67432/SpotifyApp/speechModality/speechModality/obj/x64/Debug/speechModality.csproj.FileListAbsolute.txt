@@ -1,0 +1,44 @@
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\App.g.cs
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\App.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\SpotifyAPI.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\SpotifyAPI.xml
