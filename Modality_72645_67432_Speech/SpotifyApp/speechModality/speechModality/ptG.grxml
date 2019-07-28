@@ -1,0 +1,589 @@
+﻿<?xml version="1.0"?>
+<grammar version="1.0" xml:lang="pt-PT" mode="voice" root="basicCmd"
+xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0" >
+
+  <rule id="basicCmd" scope="public">
+    <ruleref uri="#command"/>
+  </rule>
+
+
+  <rule id="command">
+    <one-of>
+      <!--
+      <item>
+        <tag>out.Categoria = "pesquisar"; </tag>
+        <ruleref uri="#Pesquisa"/>
+        <tag>out.Musica = rules.Pesquisa.Pesquisa ; </tag>
+      </item>
+      -->
+      <!--
+      <item>
+        <ruleref uri="#Pesquisar"/>
+      </item>
+      -->
+      <item>
+        <ruleref uri="#Reproduzir"/>
+      </item>
+      <!--
+      <item>
+        <ruleref uri="#Parar"/>
+      </item>
+      <item>
+        <ruleref uri="#Avançar"/>
+      </item>
+      <item>
+        <ruleref uri="#Retroceder"/>
+      </item>
+      <item>
+        <ruleref uri="#AumentarVolume"/>
+      </item>
+      <item>
+        <ruleref uri="#BaixarVolume"/>
+      </item>
+      <item>
+        <ruleref uri="#RetirarVolume"/>
+      </item>
+      <item>
+        <ruleref uri="#ReporVolume"/>
+      </item>
+      <item>
+        <ruleref uri="#MeterVolume"/>
+      </item>
+      <item>
+        <ruleref uri="#MusicaNome"/>
+      </item>
+      <item>
+        <ruleref uri="#MusicaArtista"/>
+      </item>
+      <item>
+        <ruleref uri="#MusicaActual"/>
+      </item>
+      <item>
+        <ruleref uri="#RepetirMusica"/>
+      </item>
+      <item>
+        <ruleref uri="#ReproduzirPlayList"/>
+      </item>
+      <item>
+        <ruleref uri="#AvançarPlayList"/>
+      </item>
+      <item>
+        <ruleref uri="#RetrocederPlayList"/>
+      </item>
+      <item>
+        <ruleref uri="#MusicasSemelhantes"/>
+      </item>
+      <item>
+        <ruleref uri="#InfoMusicaActual"/>
+      </item>
+      <item>
+        <ruleref uri="#OuvirXutosEpontapes"/>
+      </item>
+      <item>
+        <ruleref uri="#OuvirJoaoPedroPais"/>
+      </item>
+      <item>
+        <ruleref uri="#OuvirGNR"/>
+      </item>
+      <item>
+        <ruleref uri="#OuvirNovidades"/>
+      </item>
+      <item>
+        <ruleref uri="#OuvirPlayLists"/>
+      </item>
+      <item>
+        <ruleref uri="#MudarVozMasculina"/>
+      </item>
+      <item>
+        <ruleref uri="#MudarVozFeminina"/>
+      </item>
+      -->
+    </one-of>
+  </rule>
+  
+  <!--
+  <rule id="Pesquisa">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">
+         Contentores <tag>out.Pesquisa = "Contentores" ; </tag>
+        </item>
+        <item weight="10">
+         Xutos <tag>out.Pesquisa = "Xutos e Pontapés" ; </tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+  -->
+
+  <rule id="Reproduzir">
+    <item>
+      <ruleref uri="#reproduzir"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="reproduzir">
+    <item repeat="1">
+      <one-of>
+        <item>Quero ouvir uma música</item>
+        <item>Reproduzir música</item>
+        <item>Tocar música</item>
+        <item>Apetece-me ouvir música</item>
+        <item>Continuar a ouvir música</item>
+      </one-of>
+      <tag>out = "REPRODUZIR_MUSICA"</tag>
+    </item>
+  </rule>
+  
+  <!--
+  <rule id="Parar">
+    <item>
+      <ruleref uri="#parar">
+        <tag>out.play = rules.latest()</tag>
+      </ruleref>
+    </item>
+  </rule>
+  <rule id="parar">
+    <item repeat="1">
+      <one-of>
+        <item>Pára esta música.</item>
+        <item>Parar reprodução</item>
+        <item>Parou o barulho</item>
+        <item>Já não me apetece ouvir música</item>
+        <item>Stop</item>
+      </one-of>
+      <tag>out = "PARAR_MUSICA"</tag>
+    </item>
+  </rule>
+
+  <rule id="Avançar">
+    <item>
+      <ruleref uri="#avançar"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="avançar">
+    <item repeat="1">
+      <one-of>
+        <item>Avançar esta música</item>
+        <item>Próxima música</item>
+        <item>Avançar música actual</item>
+        <item>Música Seguinte</item>
+        <item>Estou farto de ouvir isto</item>
+      </one-of>
+      <tag>out = "AVANÇAR_MUSICA"</tag>
+    </item>
+  </rule>
+
+  <rule id="Retroceder">
+    <item>
+      <ruleref uri="#retroceder"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="retroceder">
+    <item repeat="1">
+      <one-of>
+        <item>Retroceder música</item>
+        <item>Voltar para a música anterior</item>
+        <item>Voltar atrás</item>
+        <item>Volta à música anterior</item>
+        <item>Regressa à música anterior</item>
+      </one-of>
+      <tag>out = "RETROCEDER_MUSICA"</tag>
+    </item>
+  </rule>
+
+  <rule id="AumentarVolume">
+    <item>
+      <ruleref uri="#aumentarvolume"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="aumentarvolume">
+    <item repeat="1">
+      <one-of>
+        <item>Mete a música mais alto</item>
+        <item>Aumentar o volume da música</item>
+        <item>Aumenta o som</item>
+        <item>Mete isso mais alto</item>
+        <item>Põe isso mais alto</item>
+      </one-of>
+      <tag>out = "AUMENTAR_VOLUME"</tag>
+    </item>
+  </rule>
+
+  <rule id="BaixarVolume">
+    <item>
+      <ruleref uri="#baixarvolume"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="baixarvolume">
+    <item repeat="1">
+      <one-of>
+        <item>Mete a música mais baixo</item>
+        <item>Diminuir o volume da música</item>
+        <item>Baixa o som</item>
+        <item>Mete isso mais baixo</item>
+        <item>Põe isso mais baixo</item>
+      </one-of>
+      <tag>out = "BAIXAR_VOLUME"</tag>
+    </item>
+  </rule>
+
+  <rule id="RetirarVolume">
+    <item>
+      <ruleref uri="#retirarvolume"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="retirarvolume">
+    <item repeat="1">
+      <one-of>
+        <item>Retirar som à música</item>
+        <item>Retirar o volume da música</item>
+        <item>Tira o som</item>
+        <item>Tira o volume</item>
+        <item>Silêncio</item>
+      </one-of>
+      <tag>out = "RETIRAR_VOLUME"</tag>
+    </item>
+  </rule>
+
+  <rule id="ReporVolume">
+    <item>
+      <ruleref uri="#reporvolume"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="reporvolume">
+    <item repeat="1">
+      <one-of>
+        <item>Repor som à música</item>
+        <item>Repor o volume da música</item>
+        <item>Voltar a pôr o som</item>
+        <item>Voltar a pôr o volume</item>
+        <item>Repor volume</item>
+      </one-of>
+      <tag>out = "REPOR_VOLUME"</tag>
+    </item>
+  </rule>
+
+  <rule id="MeterVolume">
+    <item>
+      <ruleref uri="#metervolume"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="meter volume">
+    <item repeat="1">
+      <one-of>
+        <item>Colocar som à música</item>
+        <item>Colocar volume na música</item>
+        <item>Meter som</item>
+        <item>Meter volume</item>
+        <item>Pôr Som</item>
+      </one-of>
+      <tag>out = "METER_VOLUME"</tag>
+    </item>
+  </rule>
+
+  <rule id="MusicaNome">
+    <item>
+      <ruleref uri="#musicanome"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="musicanome">
+    <item repeat="1">
+      <one-of>
+        <item>Diz-me o nome da música</item>
+        <item>Como se chama a música</item>
+        <item>Qual é o título da música</item>
+        <item>Que música é esta</item>
+        <item>Nome da Música</item>
+      </one-of>
+      <tag>out = "MUSICA_NOME"</tag>
+    </item>
+  </rule>
+
+  <rule id="MusicaArtista">
+    <item>
+      <ruleref uri="#musicaartista"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="musicaartista">
+    <item repeat="1">
+      <one-of>
+        <item>Diz-me o nome do artista da música</item>
+        <item>Como se chama o artista da música</item>
+        <item>Qual é o nome do artista da música</item>
+        <item>Que artista é este</item>
+        <item>Nome do Artista</item>
+      </one-of>
+      <tag>out = "MUSICA_ARTISTA"</tag>
+    </item>
+  </rule>
+
+  <rule id="MusicaActual">
+    <item>
+      <ruleref uri="#musicaactual"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="musicaactual">
+    <item repeat="1">
+      <one-of>
+        <item>Diz-me o nome da música que está a tocar</item>
+        <item>Como se chama a música que está a tocar</item>
+        <item>Qual é esta música</item>
+        <item>Esta música é de quem</item>
+        <item>Nome da música que está a tocar</item>
+      </one-of>
+      <tag>out = "MUSICA_ACTUAL"</tag>
+    </item>
+  </rule>
+
+  <rule id="RepetirMusica">
+    <item>
+      <ruleref uri="#repetirmusica"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="repetirmusica">
+    <item repeat="1">
+      <one-of>
+        <item>Repetir a música</item>
+        <item>Repetir esta música</item>
+        <item>Repete a música</item>
+        <item>Repete esta música</item>
+        <item>Repetir música</item>
+      </one-of>
+      <tag>out = "MUSICA_NOME"</tag>
+    </item>
+  </rule>
+
+  <rule id="ReproduzirPlayList">
+    <item>
+      <ruleref uri="#reproduzirplaylist"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="reproduzirplaylist">
+    <item repeat="1">
+      <one-of>
+        <item>Reproduzir as minhas playlists</item>
+        <item>Apetece-me ouvir as minhas playlists</item>
+        <item>Toca as minhas playlists</item>
+        <item>Continuar a ouvir as minhas playlists</item>
+        <item>Reproduzir playlist</item>
+      </one-of>
+      <tag>out = "REPRODUZIR_PLAYLISTS"</tag>
+    </item>
+  </rule>
+
+  <rule id="AvançarPlayList">
+    <item>
+      <ruleref uri="#avançarplaylist"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="avançarplaylist">
+    <item repeat="1">
+      <one-of>
+        <item>Avançar as minhas playlists</item>
+        <item>Apetece-me ouvir outra playlist</item>
+        <item>Quero ouvir outra playlist</item>
+        <item>Estou farto desta playlist</item>
+        <item>Avançar playlist</item>
+      </one-of>
+      <tag>out = "AVANÇAR_PLAYLISTS"</tag>
+    </item>
+  </rule>
+
+  <rule id="RetrocederPlayList">
+    <item>
+      <ruleref uri="#retrocederplaylist"/>
+      <tag>out.play = rules.latest()</tag>
+    </item>
+  </rule>
+  <rule id="retrocederplaylist">
+    <item repeat="1">
+      <one-of>
+        <item>Retroceder playlist</item>
+        <item>Voltar para a playlist anterior</item>
+        <item>Voltar atrás na playlist</item>
+        <item>Volta à playlist anterior</item>
+        <item>Volta à playlist anterior</item>
+        <item>Regressa à playlist anterior</item>
+      </one-of>
+      <tag>out = "RETROCEDER_PLAYLISTS"</tag>
+    </item>
+  </rule>
+
+  <rule id="MusicasSemelhantes">
+    <item>
+      <ruleref uri="#musicassemelhantes"/>
+    </item>
+  </rule>
+  <rule id="musicassemelhantes">
+    <item repeat="1">
+      <one-of>
+        <item>Reproduzir músicas semelhantes</item>
+        <item>Quero ouvir músicas semelhantes</item>
+        <item>Quero ouvir músicas similares</item>
+        <item>Apetece-me ouvir músicas semelhantes</item>
+        <item>Reproduzir músicas similares</item>
+      </one-of>
+      <tag>out = "MUSICAS_SEMELHANTES"</tag>
+    </item>
+  </rule>
+
+  <rule id="InfoMusicaActual">
+    <item>
+      <ruleref uri="#infomusicaactual"/>
+    </item>
+  </rule>
+  <rule id="infomusicaactual">
+    <item repeat="1">
+      <one-of>
+        <item>Diz me a informação sobre esta música</item>
+        <item>Dá-me toda a informação acerca desta música</item>
+        <item>Qual é informação desta música</item>
+        <item>Dá me mais informação</item>
+        <item>Quero saber mais</item>
+      </one-of>
+      <tag>out = "INFO_MUSICA_ACTUAL"</tag>
+    </item>
+  </rule>
+
+  <rule id="OuvirXutosEpontapes">
+    <item>
+      <ruleref uri="#ouvirxutosepontapes"/>
+    </item>
+  </rule>
+  <rule id="ouvirxutosepontapes">
+    <item repeat="1">
+      <one-of>
+        <item>Quero ouvir xutos e pontapés.</item>
+        <item>Quero ouvir xutos.</item>
+        <item>O que tens de xutos e pontapés.</item>
+        <item>Apetece-me ouvir xutos e pontapés</item>
+        <item>Reproduzir Xutos e Pontapés</item>
+      </one-of>
+      <tag>out = "OUVIR_XUTOS_E_PONTAPÉS"</tag>
+    </item>
+  </rule>
+
+  <rule id="OuvirJoaoPedroPais">
+    <item>
+      <ruleref uri="#ouvirjoaopedropais"/>
+    </item>
+  </rule>
+  <rule id="ouvirjoaopedropais">
+    <item repeat="1">
+      <one-of>
+        <item>Quero ouvir João Pedro Pais.</item>
+        <item>Quero ouvir música do João Pedro Pais.</item>
+        <item>O que tens de João Pedro Pais.</item>
+        <item>Apetece-me ouvir João Pedro Pais</item>
+        <item>Reproduzir João Pedro Pais</item>
+      </one-of>
+      <tag>out = "OUVIR_JOAO_PEDRO_PAIS"</tag>
+    </item>
+  </rule>
+
+  <rule id="OuvirGNR">
+    <item>
+      <ruleref uri="#ouvirgnr"/>
+    </item>
+  </rule>
+  <rule id="ouvirgnr">
+    <item repeat="1">
+      <one-of>
+        <item>Quero ouvir GNR</item>
+        <item>Quero ouvir música dos GNR.</item>
+        <item>O que tens de GNR.</item>
+        <item>Apetece-me ouvir GNR</item>
+        <item>Reproduzir GNR</item>
+      </one-of>
+      <tag>out = "OUVIR_GNR"</tag>
+    </item>
+  </rule>
+
+  <rule id="OuvirNovidades">
+    <item>
+      <ruleref uri="#ouvirnovidades"/>
+    </item>
+  </rule>
+  <rule id="ouvirnovidades">
+    <item repeat="1">
+      <one-of>
+        <item>Quero ouvir as novidades da semana.</item>
+        <item>Quero ouvir música nova.</item>
+        <item>O que tens de novo.</item>
+        <item>Apetece-me ouvir algo diferente</item>
+        <item>Reproduzir novidades</item>
+      </one-of>
+      <tag>out = "OUVIR_NOVIDADES"</tag>
+    </item>
+  </rule>
+
+  <rule id="OuvirPlayLists">
+    <item>
+      <ruleref uri="#ouvirplaylists"/>
+    </item>
+  </rule>
+  <rule id="ouvirplaylists">
+    <item repeat="1">
+      <one-of>
+        <item>Quero ouvir as minhas playlists.</item>
+        <item>Que playlists tenho.</item>
+        <item>O que tenho dentro das playlists.</item>
+        <item>Apetece-me ouvir as minhas playlists</item>
+        <item>Reproduzir as minhas playlists</item>
+      </one-of>
+      <tag>out = "OUVIR_PLAYLISTS"</tag>
+    </item>
+  </rule>
+
+  <rule id="MudarVozMasculina">
+    <item>
+      <ruleref uri="#mudarvozmasculina"/>
+    </item>
+  </rule>
+  <rule id ="mudarvozmasculina">
+    <item repeat="1">
+      <one-of>
+        <item>Quero mudar a voz para masculina</item>
+        <item>Quero alterar a voz para voz masculina</item>
+        <item>Mudar para voz masculina</item>
+        <item>Alterar para voz masculina</item>
+        <item>Mudar voz masculina</item>
+      </one-of>
+      <tag>out = "MUDAR_VOZ_MASCULINA"</tag>
+    </item>
+  </rule>
+
+  <rule id="MudarVozFeminina">
+    <item>
+      <ruleref uri="#mudarvozfeminina"/>
+    </item>
+  </rule>
+  <rule id ="mudarvozfeminina">
+    <item repeat="1">
+      <one-of>
+        <item>Quero mudar a voz para feminina</item>
+        <item>Quero alterar a voz para voz feminina</item>
+        <item>Mudar para voz feminina</item>
+        <item>Alterar para voz feminina</item>
+        <item>Mudar voz feminina</item>
+      </one-of>
+      <tag>out = "MUDAR_VOZ_FEMININA"</tag>
+    </item>
+  </rule>
+  -->
+  
+</grammar>
