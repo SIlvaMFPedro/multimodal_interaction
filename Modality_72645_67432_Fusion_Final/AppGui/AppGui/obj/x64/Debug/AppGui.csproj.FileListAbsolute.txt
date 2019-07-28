@@ -1,0 +1,223 @@
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\mmisharp.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\App.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\mmisharp.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\mmisharp.dll
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\App.g.cs
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\mmisharp.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\mmisharp.dll
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\KinectProject\Modality_72645_67432_Kinect\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\mmisharp.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\mmisharp.dll
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\App.g.cs
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\AppGui\AppGui\obj\x64\Debug\AppGui.pdb
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\AppGui.exe.config
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\AppGui.exe
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\AppGui.pdb
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\Microsoft.Speech.dll
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.dll
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\WebDriver.dll
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.dll
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\Newtonsoft.Json.xml
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\WebDriver.xml
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\bin\x64\Debug\WebDriver.Support.xml
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.csprojAssemblyReference.cache
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\MainWindow.g.cs
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\App.g.cs
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui_Content.g.cs
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.cache
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui_MarkupCompile.lref
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\MainWindow.baml
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.g.resources
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.Properties.Resources.resources
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.GenerateResource.cache
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CoreCompileInputs.cache
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.csproj.CopyComplete
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.exe
+D:\Modality_72645_67432_Fusion_Final\AppGui\AppGui\obj\x64\Debug\AppGui.pdb

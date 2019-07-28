@@ -1,0 +1,4 @@
+[tocar][tocarEngate]
+[reproduzir]
+[tocar][tocarCirco]
+[tocar][tocarAnzol]

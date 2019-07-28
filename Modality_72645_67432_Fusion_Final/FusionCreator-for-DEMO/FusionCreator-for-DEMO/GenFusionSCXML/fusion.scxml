@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<scxml xmlns="http://www.w3.org/2005/07/scxml" xmlns:commons="http://commons.apache.org/scxml" xmlns:emma="http://www.w3.org/2003/04/emma" xmlns:mmi="http://www.w3.org/2008/04/mmi-arch" xmlns:schemaLocation="http://www.w3.org/2005/07/scxml scxml.xsd http://commons.apache.org/scxml commons.xsd http://www.w3.org/2008/04/mmi-arch mmi.xsd http://www.w3.org/2003/04/emma emma.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" initialstate="init">
+  <datamodel>
+    <data name="data1" />
+    <data name="data2" />
+  </datamodel>
+  <state id="init">
+    <onentry>
+      <log label="[init]" expr="READY" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="main">
+    <onentry>
+      <log label="[main]" expr="READY" />
+    </onentry>
+    <transition target="sspeech[tocar][tocarengate]" event="[tocar][tocarEngate]" />
+    <transition target="sspeech[tocar][tocaranzol]" event="[tocar][tocarAnzol]" />
+    <transition target="sspeech[tocar][tocarcirco]" event="[tocar][tocarCirco]" />
+    <transition target="ssecondmod[reproduzir]" event="[reproduzir]" />
+  </state>
+  <state id="sspeech[tocar][tocarengate]">
+    <onentry>
+      <log label="[sspeech[tocar][tocarengate]]" expr="READY" />
+      <assign name="data1" expr="${_eventdata.data}" />
+      <send id="state1-timer-sspeech[tocar][tocarengate]" event="timeout-sspeech[tocar][tocarengate]" delay="1500" target="" targettype="" namelist="" />
+    </onentry>
+    <transition target="main" event="timeout-sspeech[tocar][tocarengate]" />
+    <transition target="sspeech[tocar][tocarengate]-secondmod[reproduzir]" event="[reproduzir]" />
+    <transition target="sspeech[tocar][tocarengate]-secondmod[reproduzir]" event="[reproduzir]" />
+    <onexit>
+      <cancel sendid="state1-timer-sspeech[tocar][tocarengate]" />
+    </onexit>
+  </state>
+  <state id="sspeech[tocar][tocarengate]-secondmod[reproduzir]">
+    <onentry>
+      <log label="[sspeech[tocar][tocarengate]-secondmod[reproduzir]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarEngate][reproduzir]')}" />
+      <send event="TOCAR_ENGATE" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="sspeech[tocar][tocarengate]-secondmod[reproduzir]">
+    <onentry>
+      <log label="[sspeech[tocar][tocarengate]-secondmod[reproduzir]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarEngate][reproduzir]')}" />
+      <send event="TOCAR_ENGATE" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="sspeech[tocar][tocaranzol]">
+    <onentry>
+      <log label="[sspeech[tocar][tocaranzol]]" expr="READY" />
+      <assign name="data1" expr="${_eventdata.data}" />
+      <send id="state1-timer-sspeech[tocar][tocaranzol]" event="timeout-sspeech[tocar][tocaranzol]" delay="1500" target="" targettype="" namelist="" />
+    </onentry>
+    <transition target="main" event="timeout-sspeech[tocar][tocaranzol]" />
+    <transition target="sspeech[tocar][tocaranzol]-secondmod[reproduzir]" event="[reproduzir]" />
+    <transition target="sspeech[tocar][tocaranzol]-secondmod[reproduzir]" event="[reproduzir]" />
+    <onexit>
+      <cancel sendid="state1-timer-sspeech[tocar][tocaranzol]" />
+    </onexit>
+  </state>
+  <state id="sspeech[tocar][tocaranzol]-secondmod[reproduzir]">
+    <onentry>
+      <log label="[sspeech[tocar][tocaranzol]-secondmod[reproduzir]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarAnzol][reproduzir]')}" />
+      <send event="TOCAR_ANZOL" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="sspeech[tocar][tocaranzol]-secondmod[reproduzir]">
+    <onentry>
+      <log label="[sspeech[tocar][tocaranzol]-secondmod[reproduzir]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarAnzol][reproduzir]')}" />
+      <send event="TOCAR_ANZOL" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="sspeech[tocar][tocarcirco]">
+    <onentry>
+      <log label="[sspeech[tocar][tocarcirco]]" expr="READY" />
+      <assign name="data1" expr="${_eventdata.data}" />
+      <send id="state1-timer-sspeech[tocar][tocarcirco]" event="timeout-sspeech[tocar][tocarcirco]" delay="1500" target="" targettype="" namelist="" />
+    </onentry>
+    <transition target="main" event="timeout-sspeech[tocar][tocarcirco]" />
+    <transition target="sspeech[tocar][tocarcirco]-secondmod[reproduzir]" event="[reproduzir]" />
+    <transition target="sspeech[tocar][tocarcirco]-secondmod[reproduzir]" event="[reproduzir]" />
+    <onexit>
+      <cancel sendid="state1-timer-sspeech[tocar][tocarcirco]" />
+    </onexit>
+  </state>
+  <state id="sspeech[tocar][tocarcirco]-secondmod[reproduzir]">
+    <onentry>
+      <log label="[sspeech[tocar][tocarcirco]-secondmod[reproduzir]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarCirco][reproduzir]')}" />
+      <send event="TOCAR_CIRCO" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="sspeech[tocar][tocarcirco]-secondmod[reproduzir]">
+    <onentry>
+      <log label="[sspeech[tocar][tocarcirco]-secondmod[reproduzir]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarCirco][reproduzir]')}" />
+      <send event="TOCAR_CIRCO" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="ssecondmod[reproduzir]">
+    <onentry>
+      <log label="[ssecondmod[reproduzir]]" expr="READY" />
+      <assign name="data1" expr="${_eventdata.data}" />
+      <send id="state1-timer-ssecondmod[reproduzir]" event="timeout-ssecondmod[reproduzir]" delay="1500" target="" targettype="" namelist="" />
+    </onentry>
+    <transition target="main" event="timeout-ssecondmod[reproduzir]" />
+    <transition target="ssecondmod[reproduzir]-speech[tocar][tocaranzol]" event="[tocar][tocarAnzol]" />
+    <transition target="ssecondmod[reproduzir]-speech[tocar][tocarengate]" event="[tocar][tocarEngate]" />
+    <transition target="ssecondmod[reproduzir]-speech[tocar][tocarcirco]" event="[tocar][tocarCirco]" />
+    <onexit>
+      <cancel sendid="state1-timer-ssecondmod[reproduzir]" />
+    </onexit>
+  </state>
+  <state id="ssecondmod[reproduzir]-speech[tocar][tocaranzol]">
+    <onentry>
+      <log label="[ssecondmod[reproduzir]-speech[tocar][tocaranzol]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarAnzol][reproduzir]')}" />
+      <send event="TOCAR_ANZOL" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="ssecondmod[reproduzir]-speech[tocar][tocarengate]">
+    <onentry>
+      <log label="[ssecondmod[reproduzir]-speech[tocar][tocarengate]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarEngate][reproduzir]')}" />
+      <send event="TOCAR_ENGATE" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+  <state id="ssecondmod[reproduzir]-speech[tocar][tocarcirco]">
+    <onentry>
+      <log label="[ssecondmod[reproduzir]-speech[tocar][tocarcirco]]" expr="READY" />
+      <assign name="data2" expr="${_eventdata.data}" />
+      <commons:var name="newExtensionNotification" expr="${mmi:newExtensionNotificationF(contextId, 'FUSION', 'IM', mmi:newRequestId(contextId), null, data1,data2, '[tocar][tocarCirco][reproduzir]')}" />
+      <send event="TOCAR_CIRCO" target="IM" targettype="MC" namelist="newExtensionNotification" />
+    </onentry>
+    <transition target="main" />
+  </state>
+</scxml>

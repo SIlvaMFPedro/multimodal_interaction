@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<grammar version="1.0" xml:lang="pt-PT" mode="voice" root="basicCmd"
+xmlns="http://www.w3.org/2001/06/grammar" tag-format="semantics/1.0" >
+
+  <rule id="basicCmd" scope="public">
+    <ruleref uri="#command"/>
+  </rule>
+
+  <rule id="command">
+    <one-of>
+      <item>
+        <tag>out.Categoria = "menuprincipal"; </tag>
+        <ruleref uri="#MenuPrincipal"/>
+        <tag>out.MenuPrincipal = rules.MenuPrincipal.MenuPrincipal;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "fecharSpotify"; </tag>
+        <ruleref uri="#FecharSpotify"/>
+        <tag>out.FecharSpotify = rules.FecharSpotify.FecharSpotify;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "pesquisar"; </tag>
+        <ruleref uri="#Pesquisa"/>
+        <tag>out.Pesquisa = rules.Pesquisa.Pesquisa;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "reproduzir"; </tag>
+        <ruleref uri="#Reproduzir"/>
+        <tag>out.Reproduzir = rules.Reproduzir.Reproduzir;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "parar"; </tag>
+        <ruleref uri="#Parar"/>
+        <tag>out.Parar = rules.Parar.Parar;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "retroceder"; </tag>
+        <ruleref uri="#Retroceder"/>
+        <tag>out.Retroceder = rules.Retroceder.Retroceder;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "musicaanterior"; </tag>
+        <ruleref uri="#MusicaAnterior"/>
+        <tag>out.MusicaAnterior = rules.MusicaAnterior.MusicaAnterior;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "musicaseguinte"; </tag>
+        <ruleref uri="#MusicaSeguinte"/>
+        <tag>out.MusicaSeguinte = rules.MusicaSeguinte.MusicaSeguinte;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "repetir"; </tag>
+        <ruleref uri="#Repetir"/>
+        <tag>out.Repetir = rules.Repetir.Repetir;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "baralhar"; </tag>
+        <ruleref uri="#Baralhar"/>
+        <tag>out.Baralhar = rules.Baralhar.Baralhar;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "criar"; </tag>
+        <ruleref uri ="#EscolherObjecto"/>
+        <tag>out.EscolherObjecto = rules.EscolherObjecto.EscolherObjecto;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "tocar"</tag>
+        <ruleref uri="#Tocar"/>
+        <tag>out.Tocar = rules.Tocar.Tocar;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "navegar"; </tag>
+        <ruleref uri="#EscolherNavegacao"/>
+        <tag>out.EscolherNavegacao = rules.EscolherNavegacao.EscolherNavegacao;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "mostrar"; </tag>
+        <ruleref uri="#EscolherTema"/>
+        <tag>out.EscolherTema = rules.EscolherTema.EscolherTema;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "adicionar";</tag>
+        <ruleref uri="#EscolherDestino"/>
+        <tag>out.EscolherDestino = rules.EscolherDestino.EscolherDestino;</tag>
+      </item>
+      <item>
+        <tag>out.Categoria = "volume"; </tag>
+        <ruleref uri="#Volume"/>
+        <tag>out.Volume = rules.Volume.Volume;</tag>
+      </item>
+    </one-of>
+  </rule>
+
+  <rule id="MenuPrincipal">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">menu principal</item>
+        <item weight="10">página inicial</item>
+        <item weight="10">Vai para o ínicio</item>
+      </one-of>
+      <tag>out = "menuprincipal"</tag>
+    </item>
+  </rule>
+  <rule id="FecharSpotify">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">fecha o spotify</item>
+        <item weight="10">sair do spotify</item>
+        <item weight="10">fecha a aplicação</item>
+      </one-of>
+      <tag>out = "fecharSpotify"</tag>
+    </item>
+  </rule>
+
+  <rule id="Reproduzir">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">reproduzir spotify</item>
+        <item weight="10">toca música</item>
+        <item weight="10">reproduz a música</item>
+      </one-of>
+      <tag>out = "reproduzir"</tag>
+    </item>
+  </rule>
+
+  <rule id="Parar">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">parar spotify</item>
+        <item weight="10">parar música</item>
+        <item weight="10">pára a música</item>
+        <item weight="10">pára a reprodução</item>
+        <item weight="10">mete em pausa</item>
+      </one-of>
+      <tag>out = "parar"</tag>
+    </item>
+  </rule>
+
+  <rule id="Retroceder">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">retrocede na música spotify</item>
+        <item weight="10">retrocede nesta música</item>
+      </one-of>
+      <tag>out = "retroceder"</tag>
+    </item>
+  </rule>
+
+  <rule id="MusicaAnterior">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">Voltar à música anterior</item>
+        <item weight="10">Quero voltar à música anterior</item>
+        <item weight="10">Ir para a música anterior</item>
+        <item weight="10">Reproduz a música anterior</item>
+      </one-of>
+      <tag>out = "musicaanterior"</tag>
+    </item>
+  </rule>
+
+  <rule id="MusicaSeguinte">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">avançar spotify</item>
+        <item weight="10">reproduz a música seguinte</item>
+        <item weight="10">avança esta música</item>
+      </one-of>
+      <tag>out = "musicaseguinte"</tag>
+    </item>
+  </rule>
+
+  <rule id="Repetir">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">
+          repetir spotify<tag>out.Repetir = "repetir"</tag>
+        </item>
+        <item weight="10">
+          repetir música<tag>out.Repetir = "repetir"</tag>
+        </item>
+        <item weight="10">
+          repete a música<tag>out.Repetir = "repetir"</tag>
+        </item>
+
+        <item weight="10">
+          não repetir spotify<tag>out.Repetir = "naorepetir"</tag>
+        </item>
+        <item weight="10">
+          não repetir mais a música<tag>out.Repetir = "naorepetir"</tag>
+        </item>
+        <item weight="10">
+          desligar repetir<tag>out.Repetir = "naorepetir"</tag>
+        </item>
+
+        <item weight="10">
+          quero repetir spotify<tag>out.Repetir = "repetirumavez"</tag>
+        </item>
+        <item weight="10">
+          quero repetir a música<tag>out.Repetir = "repetirumavez"</tag>
+        </item>
+        <item weight="10">
+          quero repetir uma vez<tag>out.Repetir = "repetirumavez"</tag>
+        </item>
+
+        <item weight="10">
+          não quero repetir spotify<tag>out.Repetir = "naorepetirumavez"</tag>
+        </item>
+        <item weight="10">
+          não quero repetir mais a música<tag>out.Repetir = "naorepetirumavez"</tag>
+        </item>
+        <item weight="10">
+          quero desligar repetir<tag>out.Repetir = "naorepetirumavez"</tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="Baralhar">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">baralha as músicas</item>
+        <item weight="10">mete em aleatório</item>
+        <item weight="10">activa o modo reprodução aleatória</item>
+      </one-of>
+      <tag>out = "baralhar"</tag>
+    </item>
+  </rule>
+
+  <rule id="Tocar">
+    <item>
+      <one-of>
+        <item>
+          <item weight="10">Anzol<tag>out.Tocar = "tocarAnzol"</tag></item>
+        </item>
+        <item>
+          <item weight="10">Canção do Engate<tag>out.Tocar = "tocarEngate"</tag></item>
+        </item>
+        <item>
+          <item weight="10">Circo de Feras<tag>out.Tocar = "tocarCirco"</tag></item>
+        </item>
+        <item>
+          <item>Toca</item>
+            <item repeat="1">
+              <one-of>
+                <item weight="10">
+                  a música Anzol dos Rádio Macau<tag>out.Tocar = "tocarAnzol"</tag>
+                </item>
+                <item weight="10">
+                  a música sete mares dos Sétima Legião<tag>out.Tocar = "tocarSeteMares"</tag>
+                </item>
+                <item weight="10">
+                  a canção de engate do António Variações<tag>out.Tocar = "tocarEngate"</tag>
+                </item>
+                <item weight="10">
+                  cavalos de corrida dos UHF<tag>out.Tocar = "tocarCavalos"</tag>
+                </item>
+                <item weight="10">
+                  a música circo de feras dos Xutos e Pontapés<tag>out.Tocar = "tocarCirco"</tag>
+                </item>
+                <item weight="10">
+                  paixão dos Heróis do Mar<tag>out.Tocar = "tocarPaixao"</tag>
+                </item>
+              </one-of>
+            </item>
+        </item>
+        <item>
+          <item>Quero ouvir</item>
+          <item repeat="1">
+            <one-of>
+              <item weight="10">
+                Rádio Macau Anzol<tag>out.Tocar = "tocarAnzol"</tag>
+              </item>
+              <item weight="10">
+                sete mares<tag>out.Tocar = "tocarSeteMares"</tag>
+              </item>
+              <item weight="10">
+                a canção de engate por António Variações<tag>out.Tocar = "tocarEngate"</tag>
+              </item>
+              <item weight="10">
+                uhf com cavalos de corrida<tag>out.Tocar = "tocarCavalos"</tag>
+              </item>
+              <item weight="10">
+                circo de feras pelos Xutos e Pontapés<tag>out.Tocar = "tocarCirco"</tag>
+              </item>
+              <item weight="10">
+                Heróis do Mar paixão<tag>out.Tocar = "tocarPaixao"</tag>
+              </item>
+            </one-of>
+          </item>
+        </item>
+        <item>
+          <item>Mete a dar</item>
+          <item repeat="1">
+            <one-of>
+              <item weight="10">
+                a música Anzol dos Rádio Macau<tag>out.Tocar = "tocarAnzol"</tag>
+              </item>
+              <item weight="10">
+                sete mares<tag>out.Tocar = "tocarSeteMares"</tag>
+              </item>
+              <item weight="10">
+                a canção de engate por António Variações<tag>out.Tocar = "tocarEngate"</tag>
+              </item>
+              <item weight="10">
+                uhf com cavalos de corrida<tag>out.Tocar = "tocarCavalos"</tag>
+              </item>
+              <item weight="10">
+                circo de feras pelos Xutos e Pontapés<tag>out.Tocar = "tocarCirco"</tag>
+              </item>
+              <item weight="10">
+                Heróis do Mar com a música paixão<tag>out.Tocar = "tocarPaixao"</tag>
+              </item>
+            </one-of>
+          </item>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+
+  <rule id="Pesquisa">
+    <one-of>
+      <item>
+        <item>pequisa por</item>
+        <item repeat="1">
+          <one-of>
+            <item weight="10">
+              Contentores<tag>out.Pesquisa = "Contentores"</tag>
+            </item>
+            <item weight="10">
+              Xutos<tag>out.Pesquisa = "Xutos e Pontapés"</tag>
+            </item>
+            <item weight="10">
+              In the end<tag>out.Pesquisa = "In the end"</tag>
+            </item>
+            <item weight="10">
+              Linkin Park<tag>out.Pesquisa = "Linkin Park"</tag>
+            </item>
+            <item weight="10">
+              There will be time<tag>out.Pesquisa = "There will be time"</tag>
+            </item>
+            <item weight="10">
+              Never gonna give you up<tag>out.Pesquisa = "Never gonna give you up"</tag>
+            </item>
+            <item weight="10">
+              Bon Jovi<tag>out.Pesquisa = "Bon Jovi"</tag>
+            </item>
+          </one-of>
+        </item>
+      </item>
+    </one-of>
+
+  </rule>
+
+  <rule id="EscolherNavegacao">
+    <item>
+      <one-of>
+        <item>
+          <item weight="10">navegar para</item> 
+          <item repeat="1">
+            <one-of>
+              <item weight="10">
+                relevantes<tag>out.EscolherNavegacao = "relevantes"</tag>
+              </item>
+              <item weight="10">
+                podcast<tag>out.EscolherNavegacao = "podcast"</tag>
+              </item>
+              <item weight="10">
+                cartas<tag>out.EscolherNavegacao = "cartas"</tag>
+              </item>
+              <item weight="10">
+                género<tag>out.EscolherNavegacao = "genero"</tag>
+              </item>
+              <item weight="10">
+                novo<tag>out.EscolherNavegacao = "novo"</tag>
+              </item>
+              <item weight="10">
+                descobrir<tag>out.EscolherNavegacao = "descoberta"</tag>
+              </item>
+              <item weight="10">
+                biblioteca<tag>out.EscolherNavegacao = "biblioteca"</tag>
+              </item>
+            </one-of>
+          </item>
+        </item>
+        <item weight="10">
+          quero descobrir música<tag>out.EscolherNavegacao =  "descoberta"</tag>
+        </item>
+        <item weight="10">
+          quero ir para a biblioteca<tag>out.EscolherNavegacao = "biblioteca"</tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="EscolherObjecto">
+    <item>criar</item>
+    <item repeat="1">
+      <one-of>
+        <item weight="10">
+         playlists<tag>out.EscolherObjecto = "playlists"</tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="EscolherDestino">
+    <item>adicionar música</item>
+    <item repeat="1">
+      <one-of>
+        <item weight="10">
+          à biblioteca<tag>out.EscolherDestino = "biblioteca"</tag>
+        </item>
+        <item weight="10">
+          à file de espera<tag>out.EscolherDestino = "fila"</tag>
+        </item>
+        <item weight="10">
+          às minhas playlists<tag>out.EscolherDestino = "playlists"</tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="EscolherTema">
+    <item>mostra-me</item>
+    <item repeat="1">
+      <one-of>
+        <item weight="10">
+          as minhas playlists<tag>out.EscolherTema = "playlists"</tag>
+        </item>
+        <item weight="10">
+          as músicas feitas para mim<tag>out.EscolherTema = "feitasparamim"</tag>
+        </item>
+        <item weight="10">
+          músicas<tag>out.EscolherTema = "musicas"</tag>
+        </item>
+        <item weight="10">
+          álbuns<tag>out.EscolherTema = "albuns"</tag>
+        </item>
+        <item weight="10">
+          artistas <tag>out.EscolherTema = "artistas"</tag>
+        </item>
+        <item weight="10">
+          podcasts<tag>out.EscolherTema = "podcasts"</tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+  <rule id="Volume">
+    <item repeat="1">
+      <one-of>
+        <item weight="10">
+          aumenta aí o volume<tag>out.Volume = "volumeup"</tag>
+        </item>
+        <item weight="10">
+          baixa o volume<tag>out.Volume = "volumedown"</tag>
+        </item>
+        <item weight="10">
+          Quero silêncio se faz favor<tag>out.Volume = "mutevolume"</tag>
+        </item>
+        <item weight="10">
+          Quero o volume como estava<tag>out.Volume = "resetvolume"</tag>
+        </item>
+        <item weight="10">
+          minimiza o volume<tag>out.Volume = "minvolume"</tag>
+        </item>
+        <item weight="10">
+          maximiza o volume<tag>out.Volume = "maxvolume"</tag>
+        </item>
+        <item weight="10">
+          mete o volume a trinta<tag>out.Volume = "volume30"</tag>
+        </item>
+        <item weight="10">
+          mete o volume a cinquenta<tag>out.Volume = "volume50"</tag>
+        </item>
+        <item weight="10">
+          mete o volume a oitenta<tag>out.Volume = "volume80"</tag>
+        </item>
+      </one-of>
+    </item>
+  </rule>
+
+</grammar>

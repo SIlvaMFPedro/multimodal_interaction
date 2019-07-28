@@ -1,0 +1,177 @@
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+D:\Basis4Assignment2\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\App.g.cs
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+D:\Basis4Assignment2\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\App.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+C:\Users\silva\OneDrive - Universidade de Aveiro\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\App.g.cs
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+D:\Modality_72645_67432_v1\Modality_72645_67432_old\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Modality_72645_67432\SpotifyApp\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\bin\x64\Debug\mmisharp.dll
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\App.g.cs
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+D:\Modality_72645_67432_Fusion\Modality_72645_67432_Fusion\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\App.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+C:\Users\filip\Desktop\Curso\IM\Fusion\wetransfer-8250d0\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\bin\x64\Debug\ptG.grxml
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\bin\x64\Debug\speechModality.exe.config
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\bin\x64\Debug\speechModality.exe
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\bin\x64\Debug\speechModality.pdb
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\bin\x64\Debug\Microsoft.Speech.dll
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.csprojAssemblyReference.cache
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\MainWindow.g.cs
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\App.g.cs
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality_Content.g.cs
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.cache
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality_MarkupCompile.lref
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\MainWindow.baml
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.g.resources
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.Properties.Resources.resources
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.GenerateResource.cache
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CoreCompileInputs.cache
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.csproj.CopyComplete
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.exe
+D:\Modality_72645_67432_Fusion_Final\speechModality\speechModality\obj\x64\Debug\speechModality.pdb
